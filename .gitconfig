@@ -1,0 +1,15 @@
+[user]
+    name = Alexander Ryzhov
+    email = github@ryzhov.su
+[i18n]
+    commitEncoding = utf8
+[status]
+    showUntrackedFiles = all
+[push]
+    default = simple
+[credential]
+    helper = store
+[pull]
+    rebase = false
+[alias]
+    history = log --graph
